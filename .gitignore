@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.local-data/
+.local-tools/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
