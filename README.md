@@ -26,3 +26,8 @@ dotnet run --project src/SportsEvents.NoSqlLab -- benchmark "Київ" 500
 ```
 
 Детальний опис методики, аргументація та отримані результати наведені у [REPORT.md](REPORT.md). Сирий результат вимірювання міститься у [benchmark/results.json](benchmark/results.json).
+
+## Звіт
+
+- [PDF-звіт](report/sports-events-nosql-lab-report.pdf)
+- [LaTeX-джерело](report/sports-events-nosql-lab-report.tex)
